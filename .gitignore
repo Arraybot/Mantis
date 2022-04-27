@@ -1,5 +1,7 @@
 .DS_Store/
+**/.DS_Store/
 .idea/
 .mvn/
+target/
 mvnw
 mvnw.cmd
